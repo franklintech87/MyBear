@@ -1,1 +1,3 @@
-
+It is a round process bar.
+It is used for showing remain stuff, from -100% ~ +100%.
+You can set your color, font, and title by APIs.
